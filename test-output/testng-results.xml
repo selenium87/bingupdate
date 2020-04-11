@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40416" started-at="2020-04-11T09:05:07 PDT" finished-at="2020-04-11T09:05:47 PDT">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="40416" started-at="2020-04-11T09:05:07 PDT" finished-at="2020-04-11T09:05:47 PDT">
+      <class name="pages.Shotest">
+        <test-method status="PASS" signature="startssss(java.lang.String)[pri:0, instance:pages.Shotest@76a3e297]" name="startssss" is-config="true" duration-ms="10152" started-at="2020-04-11T09:05:07 PDT" finished-at="2020-04-11T09:05:17 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startssss -->
+        <test-method status="PASS" signature="dropmenubuttonTest()[pri:0, instance:pages.Shotest@76a3e297]" name="dropmenubuttonTest" duration-ms="506" started-at="2020-04-11T09:05:17 PDT" finished-at="2020-04-11T09:05:18 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropmenubuttonTest -->
+        <test-method status="PASS" signature="itemsearchTest()[pri:1, instance:pages.Shotest@76a3e297]" name="itemsearchTest" duration-ms="55" started-at="2020-04-11T09:05:18 PDT" finished-at="2020-04-11T09:05:18 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- itemsearchTest -->
+        <test-method status="PASS" signature="searchbuttonTest()[pri:2, instance:pages.Shotest@76a3e297]" name="searchbuttonTest" duration-ms="981" started-at="2020-04-11T09:05:18 PDT" finished-at="2020-04-11T09:05:19 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbuttonTest -->
+        <test-method status="PASS" signature="shoppingselectTest()[pri:3, instance:pages.Shotest@76a3e297]" name="shoppingselectTest" duration-ms="194" started-at="2020-04-11T09:05:19 PDT" finished-at="2020-04-11T09:05:19 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingselectTest -->
+        <test-method status="PASS" signature="last()[pri:0, instance:pages.Shotest@76a3e297]" name="last" is-config="true" duration-ms="635" started-at="2020-04-11T09:05:19 PDT" finished-at="2020-04-11T09:05:20 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+      </class> <!-- pages.Shotest -->
+      <class name="pages.Mtest">
+        <test-method status="PASS" signature="startssss(java.lang.String)[pri:0, instance:pages.Mtest@4d3167f4]" name="startssss" is-config="true" duration-ms="9360" started-at="2020-04-11T09:05:20 PDT" finished-at="2020-04-11T09:05:29 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startssss -->
+        <test-method status="PASS" signature="dropTest()[pri:0, instance:pages.Mtest@4d3167f4]" name="dropTest" duration-ms="1550" started-at="2020-04-11T09:05:29 PDT" finished-at="2020-04-11T09:05:31 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropTest -->
+        <test-method status="PASS" signature="textboxTest()[pri:2, instance:pages.Mtest@4d3167f4]" name="textboxTest" duration-ms="123" started-at="2020-04-11T09:05:31 PDT" finished-at="2020-04-11T09:05:31 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textboxTest -->
+        <test-method status="PASS" signature="mapssearchTest()[pri:3, instance:pages.Mtest@4d3167f4]" name="mapssearchTest" duration-ms="645" started-at="2020-04-11T09:05:31 PDT" finished-at="2020-04-11T09:05:31 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mapssearchTest -->
+        <test-method status="PASS" signature="mapsTest()[pri:4, instance:pages.Mtest@4d3167f4]" name="mapsTest" duration-ms="264" started-at="2020-04-11T09:05:31 PDT" finished-at="2020-04-11T09:05:32 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mapsTest -->
+        <test-method status="PASS" signature="last()[pri:0, instance:pages.Mtest@4d3167f4]" name="last" is-config="true" duration-ms="660" started-at="2020-04-11T09:05:32 PDT" finished-at="2020-04-11T09:05:32 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+      </class> <!-- pages.Mtest -->
+      <class name="pages.Ntest">
+        <test-method status="PASS" signature="startssss(java.lang.String)[pri:0, instance:pages.Ntest@ed9d034]" name="startssss" is-config="true" duration-ms="9425" started-at="2020-04-11T09:05:32 PDT" finished-at="2020-04-11T09:05:42 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startssss -->
+        <test-method status="PASS" signature="dropmenueTest()[pri:1, instance:pages.Ntest@ed9d034]" name="dropmenueTest" duration-ms="418" started-at="2020-04-11T09:05:42 PDT" finished-at="2020-04-11T09:05:42 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropmenueTest -->
+        <test-method status="PASS" signature="sportTest()[pri:2, instance:pages.Ntest@ed9d034]" name="sportTest" duration-ms="110" started-at="2020-04-11T09:05:42 PDT" finished-at="2020-04-11T09:05:42 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sportTest -->
+        <test-method status="PASS" signature="nflTest()[pri:3, instance:pages.Ntest@ed9d034]" name="nflTest" duration-ms="4416" started-at="2020-04-11T09:05:42 PDT" finished-at="2020-04-11T09:05:47 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nflTest -->
+        <test-method status="PASS" signature="textTest()[pri:4, instance:pages.Ntest@ed9d034]" name="textTest" duration-ms="68" started-at="2020-04-11T09:05:47 PDT" finished-at="2020-04-11T09:05:47 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textTest -->
+        <test-method status="PASS" signature="homeTest()[pri:5, instance:pages.Ntest@ed9d034]" name="homeTest" duration-ms="178" started-at="2020-04-11T09:05:47 PDT" finished-at="2020-04-11T09:05:47 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeTest -->
+        <test-method status="PASS" signature="last()[pri:0, instance:pages.Ntest@ed9d034]" name="last" is-config="true" duration-ms="619" started-at="2020-04-11T09:05:47 PDT" finished-at="2020-04-11T09:05:47 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+      </class> <!-- pages.Ntest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
