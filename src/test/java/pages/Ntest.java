@@ -30,8 +30,9 @@ public class Ntest extends StartUp {
 	}
 
 	@Test(priority = 3)
-	public void nflTest() {
+	public void nflTest() throws InterruptedException {
 		news ne = new news(bings);
+		Thread.sleep(3000);
 		ne.nfl().click();
 	}
 
