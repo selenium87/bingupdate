@@ -5,7 +5,7 @@ import java.util.Date;
 import org.openqa.selenium.WebDriver;
 
 public class validationtestmainpage {
-
+//
 	public void validation(WebDriver bing) {
 
 		String currenturl = bing.getCurrentUrl();
