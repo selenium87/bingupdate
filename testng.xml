@@ -15,7 +15,7 @@
 				<class name="pages.Mtest"/>
 				<class name="pages.Ntest">
 				
-					</class>
+			</class>
 		</classes>
 
 	</test>
