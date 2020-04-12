@@ -25,7 +25,7 @@ public class Ntest extends StartUp {
 	@Test(priority = 5)
 	public void homeTest() {
 		news ne = new news(bings);
-		ne.home().click();
+	//	ne.home().click();
 	}
 
 	@Test(priority = 3)
@@ -53,7 +53,7 @@ public class Ntest extends StartUp {
 		// String we=ee[0].trim();//N
 		// System.out.println(ee[0]+"--f--"+cc+" "+ee[1]);
 		System.out.println(ee[0]);
-		System.out.println(ee[1]);
+	//	System.out.println(ee[1]);
 		System.out.println(ne.text().getText());
 
 	}

@@ -22,7 +22,7 @@ public class news {
 	@FindBy(xpath = "(//a[@aria-controls=\"nsn-category\"])[3]")
 	private WebElement sport;
 
-	@FindBy(xpath = "(//a[@aria-controls=\"nsn-category-subitems-2\"])[1]")
+	@FindBy(xpath = "//a[@aria-label='Search news about NFL']")
 	private WebElement nfl;
 	@FindBy(xpath = "//*[@id=\"nsn-category-subitems-2\"]/li[1]/a")
 	private WebElement texts;

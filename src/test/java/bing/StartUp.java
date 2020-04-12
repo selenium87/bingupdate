@@ -74,7 +74,7 @@ public class StartUp {
 
 @AfterClass
 public void last(){
-	bings.quit();
+	//bings.quit();
 }
 
 }
