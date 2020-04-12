@@ -18,8 +18,8 @@ public class news {
 
 	@FindBy(xpath = "//*[@id=\"news\"]/div[1]/a")
 	private WebElement slide;
-////*[@id="nsn-category"]/li[3]/a[1]
-	@FindBy(xpath = "(//a[@aria-controls=\"nsn-category\"])[3]")
+
+	@FindBy(xpath = "//*[@id=\"nsn-category\"]/li[3]/a[1]")
 	private WebElement sport;
 
 	@FindBy(xpath = "//a[@aria-label='Search news about NFL']")

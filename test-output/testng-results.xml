@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="16022" started-at="2020-04-11T21:41:12 PDT" finished-at="2020-04-11T21:41:28 PDT">
+  <suite name="Suite" duration-ms="15951" started-at="2020-04-11T22:07:52 PDT" finished-at="2020-04-11T22:08:08 PDT">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="16022" started-at="2020-04-11T21:41:12 PDT" finished-at="2020-04-11T21:41:28 PDT">
+    <test name="Test1" duration-ms="15951" started-at="2020-04-11T22:07:52 PDT" finished-at="2020-04-11T22:08:08 PDT">
       <class name="pages.Ntest">
-        <test-method status="PASS" signature="startssss(java.lang.String)[pri:0, instance:pages.Ntest@7a3d45bd]" name="startssss" is-config="true" duration-ms="10228" started-at="2020-04-11T21:41:12 PDT" finished-at="2020-04-11T21:41:22 PDT">
+        <test-method status="PASS" signature="startssss(java.lang.String)[pri:0, instance:pages.Ntest@7a3d45bd]" name="startssss" is-config="true" duration-ms="10167" started-at="2020-04-11T22:07:52 PDT" finished-at="2020-04-11T22:08:02 PDT">
           <params>
             <param index="0">
               <value>
@@ -18,27 +18,27 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startssss -->
-        <test-method status="PASS" signature="dropmenueTest()[pri:1, instance:pages.Ntest@7a3d45bd]" name="dropmenueTest" duration-ms="891" started-at="2020-04-11T21:41:22 PDT" finished-at="2020-04-11T21:41:23 PDT">
+        <test-method status="PASS" signature="dropmenueTest()[pri:1, instance:pages.Ntest@7a3d45bd]" name="dropmenueTest" duration-ms="927" started-at="2020-04-11T22:08:02 PDT" finished-at="2020-04-11T22:08:03 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dropmenueTest -->
-        <test-method status="PASS" signature="sportTest()[pri:2, instance:pages.Ntest@7a3d45bd]" name="sportTest" duration-ms="112" started-at="2020-04-11T21:41:23 PDT" finished-at="2020-04-11T21:41:23 PDT">
+        <test-method status="PASS" signature="sportTest()[pri:2, instance:pages.Ntest@7a3d45bd]" name="sportTest" duration-ms="121" started-at="2020-04-11T22:08:03 PDT" finished-at="2020-04-11T22:08:03 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sportTest -->
-        <test-method status="PASS" signature="nflTest()[pri:3, instance:pages.Ntest@7a3d45bd]" name="nflTest" duration-ms="4682" started-at="2020-04-11T21:41:23 PDT" finished-at="2020-04-11T21:41:28 PDT">
+        <test-method status="PASS" signature="nflTest()[pri:3, instance:pages.Ntest@7a3d45bd]" name="nflTest" duration-ms="4620" started-at="2020-04-11T22:08:03 PDT" finished-at="2020-04-11T22:08:07 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- nflTest -->
-        <test-method status="PASS" signature="textTest()[pri:4, instance:pages.Ntest@7a3d45bd]" name="textTest" duration-ms="73" started-at="2020-04-11T21:41:28 PDT" finished-at="2020-04-11T21:41:28 PDT">
+        <test-method status="PASS" signature="textTest()[pri:4, instance:pages.Ntest@7a3d45bd]" name="textTest" duration-ms="73" started-at="2020-04-11T22:08:07 PDT" finished-at="2020-04-11T22:08:08 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- textTest -->
-        <test-method status="PASS" signature="homeTest()[pri:5, instance:pages.Ntest@7a3d45bd]" name="homeTest" duration-ms="1" started-at="2020-04-11T21:41:28 PDT" finished-at="2020-04-11T21:41:28 PDT">
+        <test-method status="PASS" signature="homeTest()[pri:5, instance:pages.Ntest@7a3d45bd]" name="homeTest" duration-ms="1" started-at="2020-04-11T22:08:08 PDT" finished-at="2020-04-11T22:08:08 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homeTest -->
-        <test-method status="PASS" signature="last()[pri:0, instance:pages.Ntest@7a3d45bd]" name="last" is-config="true" duration-ms="0" started-at="2020-04-11T21:41:28 PDT" finished-at="2020-04-11T21:41:28 PDT">
+        <test-method status="PASS" signature="last()[pri:0, instance:pages.Ntest@7a3d45bd]" name="last" is-config="true" duration-ms="0" started-at="2020-04-11T22:08:08 PDT" finished-at="2020-04-11T22:08:08 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- last -->

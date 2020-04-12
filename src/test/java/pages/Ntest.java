@@ -13,13 +13,14 @@ public class Ntest extends StartUp {
 	news ne = new news(bings);
 
 	@Test(priority = 1)
-	public void dropmenueTest() throws IOException {
+	public void dropmenueTest() throws IOException, InterruptedException {
 		//prop.load(dat.datas());
 		//bings.navigate().to(prop.getProperty("URL"));
 
 		news ne = new news(bings);
 		ne.dropmenue().click();
 		ne.clickmenue().click();
+		Thread.sleep(3000);
 	}
 
 	@Test(priority = 5)

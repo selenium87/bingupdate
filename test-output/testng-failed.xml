@@ -7,9 +7,8 @@
       <class name="pages.Ntest">
         <methods>
           <include name="startssss"/>
-          <include name="homeTest"/>
+          <include name="sportTest"/>
           <include name="last"/>
-          <include name="textTest"/>
           <include name="nflTest"/>
         </methods>
       </class> <!-- pages.Ntest -->
