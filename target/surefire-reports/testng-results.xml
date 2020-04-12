@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="42422" started-at="2020-04-11T18:21:34 PDT" finished-at="2020-04-11T18:22:17 PDT">
+  <suite name="Suite" duration-ms="42773" started-at="2020-04-11T18:46:05 PDT" finished-at="2020-04-11T18:46:47 PDT">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="42422" started-at="2020-04-11T18:21:34 PDT" finished-at="2020-04-11T18:22:17 PDT">
+    <test name="Test1" duration-ms="42773" started-at="2020-04-11T18:46:05 PDT" finished-at="2020-04-11T18:46:47 PDT">
       <class name="pages.Shotest">
-        <test-method status="PASS" signature="startssss(java.lang.String)[pri:0, instance:pages.Shotest@10bbd20a]" name="startssss" is-config="true" duration-ms="9990" started-at="2020-04-11T18:21:34 PDT" finished-at="2020-04-11T18:21:44 PDT">
+        <test-method status="PASS" signature="startssss(java.lang.String)[pri:0, instance:pages.Shotest@10bbd20a]" name="startssss" is-config="true" duration-ms="10311" started-at="2020-04-11T18:46:05 PDT" finished-at="2020-04-11T18:46:15 PDT">
           <params>
             <param index="0">
               <value>
@@ -18,29 +18,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startssss -->
-        <test-method status="PASS" signature="dropmenubuttonTest()[pri:0, instance:pages.Shotest@10bbd20a]" name="dropmenubuttonTest" duration-ms="956" started-at="2020-04-11T18:21:44 PDT" finished-at="2020-04-11T18:21:45 PDT">
+        <test-method status="PASS" signature="dropmenubuttonTest()[pri:0, instance:pages.Shotest@10bbd20a]" name="dropmenubuttonTest" duration-ms="762" started-at="2020-04-11T18:46:15 PDT" finished-at="2020-04-11T18:46:16 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dropmenubuttonTest -->
-        <test-method status="PASS" signature="itemsearchTest()[pri:1, instance:pages.Shotest@10bbd20a]" name="itemsearchTest" duration-ms="70" started-at="2020-04-11T18:21:45 PDT" finished-at="2020-04-11T18:21:45 PDT">
+        <test-method status="PASS" signature="itemsearchTest()[pri:1, instance:pages.Shotest@10bbd20a]" name="itemsearchTest" duration-ms="59" started-at="2020-04-11T18:46:16 PDT" finished-at="2020-04-11T18:46:16 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- itemsearchTest -->
-        <test-method status="PASS" signature="searchbuttonTest()[pri:2, instance:pages.Shotest@10bbd20a]" name="searchbuttonTest" duration-ms="1162" started-at="2020-04-11T18:21:45 PDT" finished-at="2020-04-11T18:21:47 PDT">
+        <test-method status="PASS" signature="searchbuttonTest()[pri:2, instance:pages.Shotest@10bbd20a]" name="searchbuttonTest" duration-ms="1372" started-at="2020-04-11T18:46:16 PDT" finished-at="2020-04-11T18:46:17 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchbuttonTest -->
-        <test-method status="PASS" signature="shoppingselectTest()[pri:3, instance:pages.Shotest@10bbd20a]" name="shoppingselectTest" duration-ms="195" started-at="2020-04-11T18:21:47 PDT" finished-at="2020-04-11T18:21:47 PDT">
+        <test-method status="PASS" signature="shoppingselectTest()[pri:3, instance:pages.Shotest@10bbd20a]" name="shoppingselectTest" duration-ms="228" started-at="2020-04-11T18:46:17 PDT" finished-at="2020-04-11T18:46:17 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shoppingselectTest -->
-        <test-method status="PASS" signature="last()[pri:0, instance:pages.Shotest@10bbd20a]" name="last" is-config="true" duration-ms="617" started-at="2020-04-11T18:21:47 PDT" finished-at="2020-04-11T18:21:47 PDT">
+        <test-method status="PASS" signature="last()[pri:0, instance:pages.Shotest@10bbd20a]" name="last" is-config="true" duration-ms="641" started-at="2020-04-11T18:46:17 PDT" finished-at="2020-04-11T18:46:18 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- last -->
       </class> <!-- pages.Shotest -->
       <class name="pages.Mtest">
-        <test-method status="PASS" signature="startssss(java.lang.String)[pri:0, instance:pages.Mtest@48503868]" name="startssss" is-config="true" duration-ms="9387" started-at="2020-04-11T18:21:47 PDT" finished-at="2020-04-11T18:21:57 PDT">
+        <test-method status="PASS" signature="startssss(java.lang.String)[pri:0, instance:pages.Mtest@48503868]" name="startssss" is-config="true" duration-ms="9451" started-at="2020-04-11T18:46:18 PDT" finished-at="2020-04-11T18:46:27 PDT">
           <params>
             <param index="0">
               <value>
@@ -51,29 +51,29 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startssss -->
-        <test-method status="PASS" signature="dropTest()[pri:0, instance:pages.Mtest@48503868]" name="dropTest" duration-ms="2061" started-at="2020-04-11T18:21:57 PDT" finished-at="2020-04-11T18:21:59 PDT">
+        <test-method status="PASS" signature="dropTest()[pri:0, instance:pages.Mtest@48503868]" name="dropTest" duration-ms="1768" started-at="2020-04-11T18:46:27 PDT" finished-at="2020-04-11T18:46:29 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dropTest -->
-        <test-method status="PASS" signature="textboxTest()[pri:2, instance:pages.Mtest@48503868]" name="textboxTest" duration-ms="105" started-at="2020-04-11T18:21:59 PDT" finished-at="2020-04-11T18:21:59 PDT">
+        <test-method status="PASS" signature="textboxTest()[pri:2, instance:pages.Mtest@48503868]" name="textboxTest" duration-ms="153" started-at="2020-04-11T18:46:29 PDT" finished-at="2020-04-11T18:46:29 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- textboxTest -->
-        <test-method status="PASS" signature="mapssearchTest()[pri:3, instance:pages.Mtest@48503868]" name="mapssearchTest" duration-ms="542" started-at="2020-04-11T18:21:59 PDT" finished-at="2020-04-11T18:21:59 PDT">
+        <test-method status="PASS" signature="mapssearchTest()[pri:3, instance:pages.Mtest@48503868]" name="mapssearchTest" duration-ms="813" started-at="2020-04-11T18:46:29 PDT" finished-at="2020-04-11T18:46:30 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mapssearchTest -->
-        <test-method status="PASS" signature="mapsTest()[pri:4, instance:pages.Mtest@48503868]" name="mapsTest" duration-ms="459" started-at="2020-04-11T18:21:59 PDT" finished-at="2020-04-11T18:22:00 PDT">
+        <test-method status="PASS" signature="mapsTest()[pri:4, instance:pages.Mtest@48503868]" name="mapsTest" duration-ms="525" started-at="2020-04-11T18:46:30 PDT" finished-at="2020-04-11T18:46:31 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mapsTest -->
-        <test-method status="PASS" signature="last()[pri:0, instance:pages.Mtest@48503868]" name="last" is-config="true" duration-ms="659" started-at="2020-04-11T18:22:00 PDT" finished-at="2020-04-11T18:22:01 PDT">
+        <test-method status="PASS" signature="last()[pri:0, instance:pages.Mtest@48503868]" name="last" is-config="true" duration-ms="663" started-at="2020-04-11T18:46:31 PDT" finished-at="2020-04-11T18:46:31 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- last -->
       </class> <!-- pages.Mtest -->
       <class name="pages.Ntest">
-        <test-method status="PASS" signature="startssss(java.lang.String)[pri:0, instance:pages.Ntest@6895a785]" name="startssss" is-config="true" duration-ms="9613" started-at="2020-04-11T18:22:01 PDT" finished-at="2020-04-11T18:22:10 PDT">
+        <test-method status="PASS" signature="startssss(java.lang.String)[pri:0, instance:pages.Ntest@6895a785]" name="startssss" is-config="true" duration-ms="9581" started-at="2020-04-11T18:46:31 PDT" finished-at="2020-04-11T18:46:41 PDT">
           <params>
             <param index="0">
               <value>
@@ -84,27 +84,27 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startssss -->
-        <test-method status="PASS" signature="dropmenueTest()[pri:1, instance:pages.Ntest@6895a785]" name="dropmenueTest" duration-ms="934" started-at="2020-04-11T18:22:10 PDT" finished-at="2020-04-11T18:22:11 PDT">
+        <test-method status="PASS" signature="dropmenueTest()[pri:1, instance:pages.Ntest@6895a785]" name="dropmenueTest" duration-ms="934" started-at="2020-04-11T18:46:41 PDT" finished-at="2020-04-11T18:46:42 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dropmenueTest -->
-        <test-method status="PASS" signature="sportTest()[pri:2, instance:pages.Ntest@6895a785]" name="sportTest" duration-ms="128" started-at="2020-04-11T18:22:11 PDT" finished-at="2020-04-11T18:22:11 PDT">
+        <test-method status="PASS" signature="sportTest()[pri:2, instance:pages.Ntest@6895a785]" name="sportTest" duration-ms="102" started-at="2020-04-11T18:46:42 PDT" finished-at="2020-04-11T18:46:42 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sportTest -->
-        <test-method status="PASS" signature="nflTest()[pri:3, instance:pages.Ntest@6895a785]" name="nflTest" duration-ms="4668" started-at="2020-04-11T18:22:11 PDT" finished-at="2020-04-11T18:22:16 PDT">
+        <test-method status="PASS" signature="nflTest()[pri:3, instance:pages.Ntest@6895a785]" name="nflTest" duration-ms="4463" started-at="2020-04-11T18:46:42 PDT" finished-at="2020-04-11T18:46:46 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- nflTest -->
-        <test-method status="PASS" signature="textTest()[pri:4, instance:pages.Ntest@6895a785]" name="textTest" duration-ms="67" started-at="2020-04-11T18:22:16 PDT" finished-at="2020-04-11T18:22:16 PDT">
+        <test-method status="PASS" signature="textTest()[pri:4, instance:pages.Ntest@6895a785]" name="textTest" duration-ms="72" started-at="2020-04-11T18:46:46 PDT" finished-at="2020-04-11T18:46:46 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- textTest -->
-        <test-method status="PASS" signature="homeTest()[pri:5, instance:pages.Ntest@6895a785]" name="homeTest" duration-ms="158" started-at="2020-04-11T18:22:16 PDT" finished-at="2020-04-11T18:22:16 PDT">
+        <test-method status="PASS" signature="homeTest()[pri:5, instance:pages.Ntest@6895a785]" name="homeTest" duration-ms="206" started-at="2020-04-11T18:46:46 PDT" finished-at="2020-04-11T18:46:47 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homeTest -->
-        <test-method status="PASS" signature="last()[pri:0, instance:pages.Ntest@6895a785]" name="last" is-config="true" duration-ms="620" started-at="2020-04-11T18:22:16 PDT" finished-at="2020-04-11T18:22:17 PDT">
+        <test-method status="PASS" signature="last()[pri:0, instance:pages.Ntest@6895a785]" name="last" is-config="true" duration-ms="640" started-at="2020-04-11T18:46:47 PDT" finished-at="2020-04-11T18:46:47 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- last -->
