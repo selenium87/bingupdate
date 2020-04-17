@@ -27,7 +27,7 @@ public class Mtest extends StartUp {
 		
 		map.textbox().sendKeys(prop.getProperty("address"));
 		
-	//chnage
+	
 	}
 
 	@Test(priority = 3)
